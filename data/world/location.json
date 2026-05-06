@@ -1,0 +1,228 @@
+[
+    {
+        "name": "Luxona",
+        "key": "luxona",
+        "continent": [
+            {
+                "name": "Nord",
+                "key": "nord"
+            },
+            {
+                "name": "Acklara",
+                "key": "acklara"
+            },
+            {
+                "name": "Volcanic Isles",
+                "key": "volcanic-isles"
+            },
+            {
+                "name": "Gamaj",
+                "key": "gamaj",
+                "region": [
+                    {
+                        "name": "North",
+                        "key": "north",
+                        "zone": [
+                            {
+                                "name": "Northern Harbor",
+                                "key": "northern-harbor"
+                            },
+                            {
+                                "name": "Bigwood Bridge",
+                                "key": "bigwood-bridge"
+                            },
+                            {
+                                "name": "Observatory",
+                                "key": "observatory"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Kingdom",
+                        "key": "northern-kingdom",
+                        "zone": [
+                            {
+                                "name": "The Capital",
+                                "key": "the-capital"
+                            },
+                            {
+                                "name": "Outskirts",
+                                "key": "outskirts"
+                            },
+                            {
+                                "name": "Monument of Patrion",
+                                "key": "monument-of-patrion"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caleop",
+                        "key": "caleop",
+                        "zone": [
+                            {
+                                "name": "Ruins of Caleop",
+                                "key": "ruins-of-caleop"
+                            },
+                            {
+                                "name": "Punsi",
+                                "key": "punsi"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heartlands",
+                        "key": "heartlands",
+                        "zone": [
+                            {
+                                "name": "Bullbawl",
+                                "key": "bullbawl"
+                            },
+                            {
+                                "name": "Bridgetown",
+                                "key": "bridgetown"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blackwood",
+                        "key": "blackwood",
+                        "zone": [
+                            {
+                                "name": "Stronghold",
+                                "key": "stronghold"
+                            },
+                            {
+                                "name": "Blackmarsh",
+                                "key": "blackmarsh"
+                            },
+                            {
+                                "name": "Western Barrier",
+                                "key": "western-barrier"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nativa Kansu",
+                        "key": "nativa-kansu",
+                        "zone": [
+                            {
+                                "name": "Kansu",
+                                "key": "kansu"
+                            },
+                            {
+                                "name": "Kansu Fjords",
+                                "key": "kansu-fjords"
+                            },
+                            {
+                                "name": "Mystiq Falls",
+                                "key": "mystiq-falls"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Kingdom",
+                        "key": "western-kingdom",
+                        "zone": [
+                            {
+                                "name": "Goldkeeper's Keep",
+                                "key": "goldkeepers-keep"
+                            },
+                            {
+                                "name": "Hellen's Hold",
+                                "key": "hellens-hold"
+                            },
+                            {
+                                "name": "Hellen's Fall",
+                                "key": "hellens-fall"
+                            },
+                            {
+                                "name": "Omat Monastery",
+                                "key": "omat-monastery"
+                            },
+                            {
+                                "name": "Bigwill",
+                                "key": "bigwil"
+                            },
+                            {
+                                "name": "Riverpost",
+                                "key": "riverpost"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Highlands",
+                        "key": "highlands",
+                        "zone": [
+                            {
+                                "name": "Brownborder",
+                                "key": "brownborder"
+                            },
+                            {
+                                "name": "Polkas",
+                                "key": "polkas"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Devil's Pass",
+                        "key": "devils-pass",
+                        "zone": [
+                            {
+                                "name": "Brigade",
+                                "key": "brigade"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rocky Valley",
+                        "key": "rocky-valley"
+                    },
+                    {
+                        "name": "Karetan",
+                        "key": "karetan",
+                        "zone": [
+                            {
+                                "name": "Gates of Karetan",
+                                "key": "gates-of-karetan"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South",
+                        "key": "south",
+                        "zone": [
+                            {
+                                "name": "Brightnight Castle",
+                                "key": "brightnight-castle"
+                            },
+                            {
+                                "name": "Hollowborn",
+                                "key": "hollowborn"
+                            },
+                            {
+                                "name": "Redbounty",
+                                "key": "redbounty"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Land of the Old Gods",
+                "key": "land-of-the-old-gods"
+            },
+            {
+                "name": "Island of Thousand Lakes",
+                "key": "island-of-thousand-lakes"
+            },
+            {
+                "name": "Kuretan",
+                "key": "kuretan"
+            },
+            {
+                "name": "Deathlands",
+                "key": "deathlands"
+            }
+        ]
+    }
+]

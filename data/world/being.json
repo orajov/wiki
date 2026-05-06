@@ -1,0 +1,220 @@
+[
+  {
+    "name": "Civilized",
+    "key": "civilized",
+    "race": [
+      {
+        "name": "Human",
+        "key": "human"
+      },
+      {
+        "name": "Dwarf",
+        "key": "dwarf"
+      },
+      {
+        "name": "Hobbit",
+        "key": "hobbit"
+      },
+      {
+        "name": "Elf",
+        "key": "elf",
+        "subraces": [
+          {
+            "name": "Forest elf",
+            "key": "forest-elf"
+          },
+          {
+            "name": "High elf",
+            "key": "high-elf"
+          },
+          {
+            "name": "Dark elf",
+            "key": "dark-elf"
+          },
+          {
+            "name": "Tol'Ajan",
+            "key": "tol-ajan"
+          }
+        ]
+      },
+      {
+        "name": "Orc",
+        "key": "orc",
+        "subraces": [
+          {
+            "name": "Hazoon",
+            "key": "hazoon"
+          },
+          {
+            "name": "Black orc",
+            "key": "black-orc"
+          },
+          {
+            "name": "Sand orc",
+            "key": "sand-orc"
+          },
+          {
+            "name": "Jungle orc",
+            "key": "jungle-orc"
+          },
+          {
+            "name": "Blood orc",
+            "key": "blood-orc"
+          }
+        ]
+      },
+      {
+        "name": "Goblin",
+        "key": "goblin"
+      },
+      {
+        "name": "Feline",
+        "key": "feline"
+      },
+      {
+        "name": "Lycan",
+        "key": "lycan"
+      }
+    ]
+  },
+  {
+    "name": "Tribal",
+    "key": "tribal",
+    "race": [
+      {
+        "name": "Troll",
+        "key": "troll"
+      },
+      {
+        "name": "Cyclops",
+        "key": "cyclops"
+      },
+      {
+        "name": "Taur",
+        "key": "taur"
+      },
+      {
+        "name": "Gnoll",
+        "key": "gnoll"
+      },
+      {
+        "name": "Wolfkin",
+        "key": "wolfkin"
+      },
+      {
+        "name": "Boarkin",
+        "key": "boarkin"
+      },
+      {
+        "name": "Gnawer",
+        "key": "gnawer"
+      },
+      {
+        "name": "Ogre",
+        "key": "ogre"
+      }
+    ]
+  },
+  {
+    "name": "Undead",
+    "key": "undead",
+    "race": [
+      {
+        "name": "The Firsts",
+        "key": "the-firsts"
+      },
+      {
+        "name": "Skeleton",
+        "key": "skeleton"
+      },
+      {
+        "name": "Zombie",
+        "key": "zombie"
+      },
+      {
+        "name": "Mutant",
+        "key": "mutant"
+      }
+    ]
+  },
+  {
+    "name": "Magical",
+    "key": "magical",
+    "race": [
+      {
+        "name": "Vampire",
+        "key": "vampire"
+      },
+      {
+        "name": "Werewolf",
+        "key": "werewolf"
+      },
+      {
+        "name": "Elemental",
+        "key": "elemental"
+      },
+      {
+        "name": "Fairy",
+        "key": "fairy"
+      },
+      {
+        "name": "Gnome",
+        "key": "gnome"
+      }
+    ]
+  },
+  {
+    "name": "Mythic",
+    "key": "mythic",
+    "race": [
+      {
+        "name": "The Ancient",
+        "key": "the-ancient"
+      },
+      {
+        "name": "Elder",
+        "key": "elder"
+      },
+      {
+        "name": "Ent",
+        "key": "ent"
+      }
+    ]
+  },
+  {
+    "name": "Astral",
+    "key": "astral",
+    "race": [
+      {
+        "name": "Phantom",
+        "key": "phantom"
+      },
+      {
+        "name": "Ghost",
+        "key": "ghost"
+      },
+      {
+        "name": "Spirit",
+        "key": "spirit"
+      }
+    ]
+  },
+  {
+    "name": "Demonic",
+    "key": "demonic",
+    "race": [
+      {
+        "name": "Demon Lord",
+        "key": "demon-lord"
+      },
+      {
+        "name": "Demon",
+        "key": "demon"
+      },
+      {
+        "name": "Imp",
+        "key": "imp"
+      }
+    ]
+  }
+]
